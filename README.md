@@ -35,10 +35,10 @@ reach.
 3. Add **Project Cydex** under **Settings > Devices & services** and select your
    ESPHome display.
 
-[![Open Project Cydex in HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=ijtan&repository=project-cyder&category=integration)
+[![Open Project Cydex in HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=ijtan&repository=project-cydex&category=integration)
 
 The button opens the custom repository directly in HACS. To add it manually, use
-`ijtan/project-cyder` and choose **Integration**.
+`ijtan/project-cydex` and choose **Integration**.
 
 [![Add Project Cydex to Home Assistant](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start?domain=cyd_ha_monitor)
 
@@ -110,5 +110,5 @@ Bluetooth and iPhone notifications are not included in this integration.
 
 ## Help and licence
 
-[Report a bug](https://github.com/ijtan/project-cyder/issues).
+[Report a bug](https://github.com/ijtan/project-cydex/issues).
 Licensed under [GPL-3.0-only](LICENSE).
